@@ -88,5 +88,6 @@
         <module>76.spring-boot-websocket-socketjs</module>
         <module>77.spring-cloud-alibaba-sentinel-dashboard-guide</module>
         <module>78.spring-cloud-alibaba-sentinelresource</module>
+        <module>79.Sharding-JDBC</module>
     </modules>
 </project>
